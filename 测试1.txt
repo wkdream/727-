@@ -1,4 +1,2 @@
-锟斤拷锟斤拷锟斤拷锟絥o1
-锟斤拷也锟斤拷NO2
-杩欐槸绗簩娆′慨鏀筭ithub->elipse
-第二次push elipse->github
+第一次pull github->eclipse
+第二次push eclipse->github
